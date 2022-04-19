@@ -44,6 +44,10 @@
 
     - proponer los wireframes al personal
 
+    - elaborar los diseños del aspecto visual de la interface grafica
+
+    - proponercelas al personal
+
   + **Producir** un software, que cumpla con los requerimientos, a la vez que se adapta al proceso de evaluación y permite a los encargados, ganar comodidad a la vez que ahorran tiempo y dinero.
 
     - elaborar una api con python y mariadb
