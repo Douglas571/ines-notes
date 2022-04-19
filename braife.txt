@@ -1,0 +1,18 @@
+Software Para Evaluación Docente
+
+- administrar intrumentos evaluativos  
+  + poder compartir instrumentos entre doscentes supervisores
+
+  + guardar borradores automaticamente
+
+- poder ejecutar el proceso evaluativo de manera
+  sencilla mediante: checks, etc
+  + guardar la ejecución en un estado de borrador si se interrumpe el proceso
+
+- generar estadisticas de acuerdo a los datos recolectados por los instrumentos
+
+----- control de asistencia -----
+  - analizar horario en excel
+
+  - administrar lista de profesores
+  - administrar lista de materias
