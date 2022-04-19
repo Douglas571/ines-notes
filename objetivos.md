@@ -38,7 +38,7 @@
 
   + **Plantear** una interface gráfica que le permita al personal encargado, realizar sus tareas de forma cómoda y segura.
 
-    - elaborar casos de uso
+    - elaborar diagramas de flujo y casos de uso
 
     - elaborar wireframes de la interface grafica
 
