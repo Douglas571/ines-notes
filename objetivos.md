@@ -35,7 +35,7 @@
 
     - Diseño funcional de la interface gráfica mediante esquematización (wireframes).
 
-    - Diseño visual de la interface gráfica utilizando Adove Illustrator.
+    - Diseño visual de la interface gráfica utilizando Adobe Illustrator.
 
   + **Desarrollar** el software aplicando la metodología cascada
 
