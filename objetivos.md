@@ -1,7 +1,7 @@
 # Objetivos
 
 ## General
-  + Proponer un software para el seguimiento y evaluación docente en la UNEFA nucleo Falcón
+  + Proponer un software para el seguimiento y evaluación docente en la UNEFA núcleo Falcón
 
 ## Específicos
 
