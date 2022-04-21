@@ -41,11 +41,11 @@
 
     - Creación de la base de datos, utilizando el gestor de bases de datos MariaDB.
 
-    - Codificación del Frontend como una PWA (Progressive Web Application) utilizando el lenguaje de programación Javascript.
+    - Codificación de una API o Backend utilizando el lenguaje de programación Python.
 
     - Conexión del Backend a la base de datos MariaDB.
 
-    - Codificación de una API o Backend utilizando el lenguaje de programación Python.
+    - Codificación del Frontend como una PWA (Progressive Web Application) utilizando el lenguaje de programación Javascript.
 
     - Codificación del módulo de control de asistencia.
 
