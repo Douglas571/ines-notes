@@ -1,60 +1,60 @@
 # Objetivos
 
 ## General
-  + Proponer un software para el seguimiento y evaluación docente en la UNEFA nucleo falcón
+  + Proponer un software para el seguimiento y evaluación docente en la UNEFA nucleo Falcón
 
 ## Específicos
 
   + **Diagnosticar** la necesidad de un software de evaluación docente en el area de programación y evaluación curricular.
 
-    - Diseñar un instrumento para la recolección de datos
+    - Diseño de un instrumento para la recolección de datos.
 
-    - Solicitar una reunión con el personal encargado    
+    - Solicitud de una reunión con el personal encargado, para la aplicación del instrumento de recolección de datos.
 
-    - Aplicar el instrumento previamente elaborado
+    - Análisis de los resultados obtenidos tras la aplicación del instrumento.
 
-    - Investigar el equipo (celulares y computadoras) con los que dispone el personal
+  + **Determinar** los requerimientos del software.
 
-  + **Determinar** los requerimientos del software
+    - Selección de los criterios de requerimientos.
 
-    - elaborar el documento de requerimientos, basandonos en los resultados arrojados por el instrumento previamente aplicado
+    - Identificación de los requerimientos funcionales y no funcionales del software en base a las necesidades del personal entrevistado.
 
-    - discutir resultados del analisis con el personal encargado, y así determinar si están en concordancia con sus necesidades.
+  + **Diseñar** el modelo lógico y conceptual del software.
 
-  + **Diseñar** el modelo lógico y conceptual del software
+    - Selección de las técnicas y herramientas.
 
-    - (especificar las tareas durante el diseño de bases de datos)
+    - Diseño conceptual de la base de datos utilizando diagramas Entidad-Relación.
 
-    - Identificar las entidades 
+    - Diseño Lógico de la base de datos empleando un modelo relacional.
 
-    - Elaborar los diagramas de Entidad relación
+    - Normalización de la base de datos
 
-    - diseñar la base de datos en MariaDB
+    - Diseño Físico de la base de datos mediante lenguaje SQL.
 
-    - Creación de la base de datos utilizando MariaDB
+    - Elaboración de diagramas de flujo y casos de uso.
 
-    - Elaborar diagramas de flujo y casos de uso
+    - Diseño funcional de la interface gráfica mediante esquematización (wireframes).
 
-    - Elaborar wireframes (usando lapiz y papel) de la interface grafica basandonos en los diagramás previos
+    - Diseño visual de la interface gráfica utilizando Adove Illustrator.
 
-    - Corroborar con el personal, que la información, así como la interface grafica, esté acorde a sus necesidades
+  + **Desarrollar** el software aplicando la metodología cascada
 
-    - Elaborar los diseños del aspecto visual de la interface grafica
+    - Creación de la base de datos, utilizando el gestor de bases de datos MariaDB.
 
-    - Presentarle los avances al personal del area de programación y planificación curricular
+    - Codificación del Frontend como una PWA (Progressive Web Application) utilizando el lenguaje de programación Javascript.
 
-  + **Producir** el software utilizando Python, el gestor de bases de datos MariaDB y tecnologías frontend como Javascript
+    - Conexión del Backend a la base de datos MariaDB.
 
-    - elaborar una api con Python y MariaDB
+    - Codificación de una API o Backend utilizando el lenguaje de programación Python.
 
-    - elaborar el frontend como una pwa (progresive web application) con Javascript
+    - Codificación del módulo de control de asistencia.
 
-  + **Evaluar** el funcionamiento del software 
+    - Codificación del módulo de evaluación docente.
 
-    - preparar un prototipo
+  + **Evaluar** el funcionamiento del software.
 
-    - presentarles un prototipo al personal encargado
+    - Presentación del prototipo al personal de área de programación y evaluación curricular.
 
-    - analisar los resultados
+    - Análisis de los resultados obtenidos tras la presentación.
 
-    - aplicar las correcciones necesarias
+    - Aplicación de las correcciones necesarias.
