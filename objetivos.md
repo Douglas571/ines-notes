@@ -5,7 +5,7 @@
 
 ## Específicos
 
-  + **Diagnosticar** la necesidad de un software de evaluación docente en el area de programación y evaluación curricular.
+  + **Diagnosticar** la necesidad de un software de evaluación docente en el área de programación y evaluación curricular.
 
     - Diseño de un instrumento para la recolección de datos.
 
