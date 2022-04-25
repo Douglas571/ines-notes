@@ -7,7 +7,7 @@
         "termina": '8:45',
         "aula": 1,
         "materia": "Programación III",
-        "profesore": "Mariugenia smith"
+        "docente": "Mariugenia smith"
         "carrera": Sistemas
         "semestre": 5
         "seccion": "b"
