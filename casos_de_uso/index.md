@@ -12,6 +12,11 @@
 
 # Profesor
   - notificar actividad semana
+
+  - facilitar planificación
+  - control de asistencia
+  - (faltan más cosas...)
+
   - notificar novedades respecto a su horario
 
 # Administrador
