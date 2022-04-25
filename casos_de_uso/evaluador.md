@@ -1,5 +1,8 @@
-# Crear un instrumento de Evaluación
-  - agregar criterios tipo lista
+# Evaluador
+
+## Creador de Instrumentos
+**Objetivo:** crear un instrumento de evaluación
+  - agregar los criterios necesarios
     - checkbox
     - radio button
     - caja de text
@@ -7,7 +10,7 @@
 
   - guardar
 
-# Realizar un acompañamiento
+## Realizar un acompañamiento
   - elegir un instrumento
   - elegir un docente, materia, sección
   - guardar instrumento
