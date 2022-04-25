@@ -12,11 +12,14 @@ Investigar sobre:
 
 
 ## Bases Teóricas
+conjunto de conceptos y modelos que logran explicar el problema planteado
 es una recopilación de información, aquí se puede delimitar el contexto del proyecto
 ejemplo de cita: 
   "bla bla bla" Guerra, Sergio (2020)
 
 ## Glosario
+Conceptos, expresiones y variables involucradas en el problema planteado
+
   - PWA (Progressive Web Applications)
   - Backend
   - Fronted
@@ -25,3 +28,7 @@ ejemplo de cita:
   - Evaluación
   - Seguimiento
 
+# procedimiento:
+  - Investigar los 3 aspectos descritos anteriormente, para despues explicar las interacciones entre las variables de estudio.
+  - Consultar la bibliografía sobre los antecedentes, bases teóricas y glosario que puedan ampliar tu conocimiento sobre el tema.
+  - analizar minuciosamente la bibliografía, tomando apuntes, donde puedas hacer tus propias interpretaciones de la teoría.

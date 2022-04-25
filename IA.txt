@@ -1,0 +1,15 @@
+aulario
+
+	modulo
+
+		aula
+
+			hora
+			profesor
+			materia
+
+profesor
+	nombre
+	materias
+
+
