@@ -1,8 +1,14 @@
+# Usuario General
+  - Registrarce
+  - Iniciar secion
+  - Editar su perfil
+
 # Evaluador
   - realizar seguimiento de actividad (recorrido)
   - evaluar profesor (acompañamiento)
 
   - administrar aulario
+  - administrar instrumentos
 
 # Profesor
   - notificar actividad semana
