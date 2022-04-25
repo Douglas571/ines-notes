@@ -4,20 +4,23 @@
   - Editar su perfil
 
 # Evaluador
+  - administrar instrumentos
+
   - realizar seguimiento de actividad (recorrido)
+    - anotar comentarios, asistencia...
+
   - evaluar profesor (acompañamiento)
 
   - administrar aulario
-  - administrar instrumentos
 
 # Profesor
+  - notificar novedades respecto a su horario
   - notificar actividad semana
 
   - facilitar planificación
   - control de asistencia
-  - (faltan más cosas...)
 
-  - notificar novedades respecto a su horario
+  - faltan más cosas...
 
 # Administrador
   - administrar los permisos de usuarios
