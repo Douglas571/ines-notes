@@ -1,0 +1,44 @@
+diagrama entidad relación del proyecto
+
+problema: El departamento de planificación y evaluación curricular de la UNEFA, necesita un sistema informático que le permita llevar de forma digitalizada el proceso de seguimiento y evaluación docente.
+
+El sistema debe poder facilitar sus tareas cotidianas; la base de datos debe poder almacenar datos de:
+
+  - usuario
+    - nombres
+    - apellidos
+    - cedula
+
+    - correo
+
+  - profesores:
+    - usuario_id
+    - horario de clases
+    - (calificación)
+
+  - evaluadores
+    - usuario_id
+    - carrera asignada
+
+  - preguntas
+    - tipo
+    - valor
+    - posibles_valores
+
+  - resultados de evaluación
+    - profesor
+    - resultados de la evaluación por estudiantes
+    - resultados de evaluación por coordinador
+    - resultados de evaluación por acompañamiento
+
+  - resultadod_de_evaluación_por_acompañamiento
+    - evaluador_id
+
+  - evaluaciones_de_estudiante
+    - fecha
+    - Intrumento_id
+    - resultados
+
+  - Instrumentos (formularios)
+    - id
+    - preguntas (JSON)
