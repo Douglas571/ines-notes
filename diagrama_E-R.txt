@@ -5,39 +5,62 @@ problema: El departamento de planificación y evaluación curricular de la UNEFA
 El sistema debe poder facilitar sus tareas cotidianas; la base de datos debe poder almacenar datos de:
 
   - usuario
+    - correo
+    - contraseña
+    - tipo
+
     - nombres
     - apellidos
     - cedula
 
-    - correo
-
   - profesores:
     - usuario_id
-    - horario de clases
-    - (calificación)
+
+  - aulario
+    - module
+    - Aula
+
+    - materia_id
+    - dia
+    - hora_inicio
+    - hora_fin
+
+  - materias
+    - id
+    - carrera
+    - profesor_id
 
   - evaluadores
     - usuario_id
-    - carrera asignada
+    - es_coordinador
+    - carrera_asignada
 
-  - preguntas
-    - tipo
-    - valor
-    - posibles_valores
-
-  - resultados de evaluación
-    - profesor
-    - resultados de la evaluación por estudiantes
-    - resultados de evaluación por coordinador
-    - resultados de evaluación por acompañamiento
-
-  - resultadod_de_evaluación_por_acompañamiento
-    - evaluador_id
-
-  - evaluaciones_de_estudiante
+  - resultados_evaluación_por_estudiantes
+    - id
     - fecha
-    - Intrumento_id
-    - resultados
+    - evaluador_id
+    - profesor_id
+
+    - instrumento_id
+    - resultados (json)
+
+  - resultados_evaluación_por_coordinador
+    - id
+    - fecha
+    - evaluador_id
+    - profesor_id
+
+    - instrumento_id
+    - resultados (json)
+
+  - resultados_evaluación_por_acompañamiento
+    - id
+    - fecha
+    - evaluador_id
+    - profesor_id
+
+    - instrumento_id
+    - resultados (json)
 
   - Instrumentos (formularios)
     - id
