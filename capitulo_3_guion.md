@@ -1,0 +1,25 @@
+Capitulo 3
+*párrafo introducción al capítulo 3*
+*hablar rápidamente de la investigación, presupuesto... etc. *
+3.1 Investigación de Mercado
+*indicar brevemente que antes de empezar el desarrollo/ prototipado, se hizo el estudio de mercado para captar requerimientos funcionales y posibles áreas de mejora*
+*definir qué es un estudio de mercado según X autor*
+*explicar cómo es el mercado del software para seguimiento y evaluación docente*
+
+*introducción (full hd 4k) por qué hicimos una investigación de mercado y cómo la hicimos (si es un cuadro, o que se yo)*
+*explicar cómo recopilamos los datos de la investigación (si fue por reseñas, yendo al sitio web, o usando google)*
+
+*ahora sí, hablar sobre la 1ra, 2da, 3ra… herramienta*
+  *colocar imágenes con: “ilustración x. descripción y. Fuente: z (fecha)”*
+*finalizar y dar abreboca del cuadro o método utilizado*
+3.2 metodología de desarrollo
+*indicar la metodología utilizada, porqué se utilizó, y si es el caso: según qué autor, dónde lo dice (obra); finalizar el porqué es ideal para el software en cuestión*
+*relatar porqué eligió X nombre para la aplicación*
+*Indicar que en el siguiente apartado, se explicarán las etapas referentes al diseño de prototipo propuestas por la metodología cascada*
+
+3.3 diseño de prototipo
+*hablar brevemente sobre la metodología cascada (sus etapas) e indicar que a continuación, se narrará lo que se hará en cada etapa de la metodología*
+  - fase de Análisis
+- fase de Diseño
+  - fase de implementación
+  - fase de testing
