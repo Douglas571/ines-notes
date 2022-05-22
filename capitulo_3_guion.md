@@ -7,6 +7,9 @@ En este capítulo se abordará la investigación de mercado realizada previo al 
 3.1 Investigación de Mercado
 *indicar brevemente que antes de empezar el desarrollo/ prototipado, se hizo el estudio de mercado para captar requerimientos funcionales y posibles áreas de mejora*
 *definir qué es un estudio de mercado según X autor*
+
+Segun Quiroa (2019) "La investigación de mercado es un proceso utilizado para resolver problemas entre la empresa y sus mercados, mediante la búsqueda y el análisis de información"
+
 *explicar cómo es el mercado del software para seguimiento y evaluación docente*
 
 *introducción (full hd 4k) por qué hicimos una investigación de mercado y cómo la hicimos (si es un cuadro, o que se yo)*
@@ -26,3 +29,6 @@ En este capítulo se abordará la investigación de mercado realizada previo al 
 - fase de Diseño
   - fase de implementación
   - fase de testing
+
+Bibliografía
+- Myriam Quiroa (07 de diciembre, 2019). Investigación de mercado. Economipedia.com
