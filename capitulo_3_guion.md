@@ -1,6 +1,9 @@
 Capitulo 3
 *párrafo introducción al capítulo 3*
-*hablar rápidamente de la investigación, presupuesto... etc. *
+*hablar rápidamente de la investigación, presupuesto... etc.*
+
+En este capítulo se abordará la investigación de mercado realizada previo al diseño y elaboración del prototipo, el presupuesto necesario para la concepción del mismo, entrevistas y lista de requerimientos, diagramas de flujo, caso de uso, entidad relación, etc; así como las pantallas preliminares...
+
 3.1 Investigación de Mercado
 *indicar brevemente que antes de empezar el desarrollo/ prototipado, se hizo el estudio de mercado para captar requerimientos funcionales y posibles áreas de mejora*
 *definir qué es un estudio de mercado según X autor*
