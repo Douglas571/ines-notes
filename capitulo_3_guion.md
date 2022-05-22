@@ -8,11 +8,11 @@ En este capítulo se abordará la investigación de mercado realizada previo al 
 *indicar brevemente que antes de empezar el desarrollo/ prototipado, se hizo el estudio de mercado para captar requerimientos funcionales y posibles áreas de mejora*
 *definir qué es un estudio de mercado según X autor*
 
-Segun Quiroa (2019) "La investigación de mercado es un proceso utilizado para resolver problemas entre la empresa y sus mercados, mediante la búsqueda y el análisis de información". Para este caso, el problema a resolver, es la propuesta de un software que permita al departamento de evaluación y planificación docente de la UNEFA, realizar sus actividades diarias mediante una herramienta mobil, completamente digital, que pueda sobrellevar las fluctuaciones en el servicio de internet.
-
-
+Segun Quiroa (2019) "La investigación de mercado es un proceso utilizado para resolver problemas entre la empresa y sus mercados, mediante la búsqueda y el análisis de información". Para este caso, el problema a resolver es la propuesta de un software que permita al departamento de evaluación y planificación docente de la UNEFA, realizar sus actividades diarias mediante una herramienta mobil, completamente digital, que pueda sobrellevar las fluctuaciones en el servicio de internet.
 
 *explicar cómo es el mercado del software para seguimiento y evaluación docente*
+
+Por otro lado, en cuanto al mercado de softwares para el seguimiento y evaluación docente... 
 
 *introducción (full hd 4k) por qué hicimos una investigación de mercado y cómo la hicimos (si es un cuadro, o que se yo)*
 *explicar cómo recopilamos los datos de la investigación (si fue por reseñas, yendo al sitio web, o usando google)*
