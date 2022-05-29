@@ -1,67 +1,82 @@
-diagrama entidad relación del proyecto
+﻿diagrama entidad relación del proyecto
 
 problema: El departamento de planificación y evaluación curricular de la UNEFA, necesita un sistema informático que le permita llevar de forma digitalizada el proceso de seguimiento y evaluación docente.
 
 El sistema debe poder facilitar sus tareas cotidianas; la base de datos debe poder almacenar datos de:
 
-  - usuario
+  - usuarios
+    * id
     - correo
     - contraseña
-    - tipo
-
+  
     - nombres
     - apellidos
     - cedula
-
+  
   - profesores:
-    - usuario_id
+    * id
+    - id_usuarios
+    - tipo_de_d         ocente (tiempo parcial, tiempo completo)
 
-  - aulario
+    - carrera_asignada
+
+  - evaluadores:
+    * id_profesores
+    - es_coordinador
+
+  - materias
+    * codigo 
+    - carrera
+    - profesor_id
+  
+  - horarios
+    * id
     - module
     - Aula
 
     - materia_id
     - dia
     - hora_inicio
-    - hora_fin
+    - hora_fin (excluida)
 
-  - materias
-    - id
-    - carrera
-    - profesor_id
-
-  - evaluadores
-    - usuario_id
-    - es_coordinador
-    - carrera_asignada
-
-  - resultados_evaluación_por_estudiantes
+  - evaluación_por_estudiantes
     - id
     - fecha
     - evaluador_id
     - profesor_id
 
-    - instrumento_id
+    - instrum                                                                                               ento_id
     - resultados (json)
 
-  - resultados_evaluación_por_coordinador
+  - evaluación_por_coordinador
     - id
     - fecha
-    - evaluador_id
-    - profesor_id
 
-    - instrumento_id
+    - id_evaluadores
+    - id_profesores
+
+    - id_instrumentos
     - resultados (json)
 
-  - resultados_evaluación_por_acompañamiento
+  - evaluación_por_acompañamiento
     - id
     - fecha
-    - evaluador_id
-    - profesor_id
+    - id_evaluadores
+    - id_profesores
 
-    - instrumento_id
+    - id_instrumentos
     - resultados (json)
 
   - Instrumentos (formularios)
     - id
     - preguntas (JSON)
+
+  - Notificaciones
+    - emisor
+    - receptor
+
+    - mensaje
+
+
+--- Preguntas ---
+ una clase, puede tener como clave primaria, del elemento de otra tabla?
